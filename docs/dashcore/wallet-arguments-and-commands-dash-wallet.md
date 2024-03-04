@@ -19,7 +19,14 @@ Usage:
        Specify data directory
 
   -wallet=<wallet-name>
-       Specify wallet name
+       Specify wallet na  create
+       Create new wallet file
+
+  info
+       Get wallet info
+
+  salvage
+       Attempt to recover private keys from a corrupt wallet14bvC3cw5bmfS1zFxMEkUu6y3t9TrzUE1Gme
 ```
 
 ### Debugging/Testing options
